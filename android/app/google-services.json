@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972586873983",
+    "project_id": "companyflow-eeb66",
+    "storage_bucket": "companyflow-eeb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972586873983:android:828d74d82fac1a920afb4a",
+        "android_client_info": {
+          "package_name": "com.example.company_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJOxlYMOFNIZehzmMCAK15aSjiiyPN7EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
